@@ -47,11 +47,12 @@ The following animation shows the POST, PUT, and DELETE routes for thoughts bein
 
 [Demo that shows the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.](https://watch.screencastify.com/v/Bo8YfLIDTUwOnpO7kk5B)
 
-In addition to this, your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
 
 The following animation shows the POST and DELETE routes for a user’s friend list being tested in Insomnia:
 
 [Demo that shows the POST and DELETE routes for a user’s friend list being tested in Insomnia.](https://watch.screencastify.com/v/NbihwMOLlOXahV3liuFa)
+
+The following animation shows the POST and DELETE routes for a reactions to thoughts list being tested in Insomnia:
 
 [walkthrough video to POST and DELETE routes for reactions to thoughts being tested in Insomnia.](https://watch.screencastify.com/v/yXV18LbvjMkHT9shznDb)
 
